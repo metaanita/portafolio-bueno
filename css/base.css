@@ -1,0 +1,89 @@
+/* Variables
+Styles that we can reuse */
+
+:root{
+    --primary-color: #00bcd4;
+    --primary-color-100: #b2ebf2;
+    --primary-color-300: #4dd0e1;
+    --secondary-color: #009688;
+    --secondary-color-600: #00897b;
+    --secondary-color-900:  #004d40;
+
+    --neutral-color: #e0e0e0;
+    --background-color: #1B1B1B;
+
+    --surface-color: #252525;
+
+    --lobster-font : 'Lobster', sans-serif;
+    --sans-font : 'DM Sans', sans-serif;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* General style
+
+Style that i want to apply to all the elements */
+
+html {
+    font-size: 14px;
+    background-color: var(--background-color);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+    font-family: var(--sans-font);
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Text style */
+
+h1 {
+    color: var(--secondary-color-600);
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: var(--primary-color);
+    font-family: var(--lobster-font);
+    font-weight: 400;
+    letter-spacing: 0.06rem;
+    font-size: 1.8rem;
+}
+
+p {
+    color: var(--neutral-color);
+    font-size: 1.1rem;
+}
+
+.break {
+    position: absolute;
+    margin-top: -60;
+}
+
+#projects-list .project-item {
+    text-align: center; /* Centra el texto debajo de la imagen /
+    margin: 20px; / Espacio alrededor de cada proyecto /
+}
+
+#projects-list img {
+    display: block; / Asegura que la imagen se muestre en bloque /
+    margin: 0 auto; / Centra la imagen horizontalmente /
+    width: 200px; / O cualquier otro tamaño deseado */
+}
+.contenedor-exp{
+    margin-top: 30px;
+    margin-left:100px;
+    margin-right:100px;
+}

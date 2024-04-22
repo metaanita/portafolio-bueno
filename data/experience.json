@@ -1,0 +1,23 @@
+[
+    {
+        "entity" : "FACTORIA F5 MADRID",
+        "title" : "Bootcamp de desarrollo web fullstack con tecnologías inmersivas",
+        "description" : "Bootcamp intensivo para formarme en desarrollo web frontend/backend con tecnologías inmersivas",
+        "period" : " Octubre 2023 - Mayo 2024",
+        "technology" : ["HTML", "CSS","REACT", "Node.js", "Javascript", "PHP", "Unity","Next", "Express","Docker","Three.js", "Tailwind", "Boostrap", "A-Frame", "Solidity", "Blender", "etc."]
+    },
+    {
+        "entity" : "INCIBE",
+        "title" : "Curso online de Ciberseguridad",
+        "description" : "-Formación en Ciberseguridad-",
+        "period" : "01/03/2023 - 27/08/2023",
+        "technology" : ["Firewalls", "Antivirus y antimalware","Sistemas de detección y prevención de intrusiones (IDS/IPS)", "Cifrado de datos", "Autenticación multifactor (MFA)", "Gestión de identidades y accesos (IAM)", "Análisis de seguridad y monitorización de eventos (SIEM)", "Pruebas de penetración y evaluaciones de seguridad"]
+    },
+    {
+        "entity" : "AGENCIA PARA EL EMPLEO DEL AYTO. DE MADRID",
+        "title" : "Curso oficial online de E-commerce",
+        "description" : "-Formación en comercio electrónico-",
+        "period" : "horas: 40 finalización: 04/03/21",
+        "technology" : ["variedad de tecnologías para facilitar transacciones comerciales en línea:", "Plataformas de comercio electrónico","Sistemas de gestión de contenidos (CMS)","Pasarelas de pago","Seguridad de la información (SSL/TLS)","Optimización para motores de búsqueda (SEO)", "Analítica web","Responsive design y desarrollo móvil"]
+    }
+]

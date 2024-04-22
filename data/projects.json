@@ -1,0 +1,51 @@
+[
+    {
+        "name" : "Portafolio personal",
+        "description" : "Proyecto creado para enseñar algunos de los proyectos en los que trabajé",
+        "year" : 2024,
+        "img" : "./img/portfolio.png",
+        "repo": "https://github.com/metaanita/portafolio",
+        "technologies" : ["HTML", "CSS", "JS", "API"]
+    },
+    {
+        "name" : "Briefing inmersivo",
+        "description" : "Proyecto individual de escenario inmersivo con VR animado y desplegado en Vercel que muestra diferentes texturas, objetos o elementos",
+        "year" : 2023,
+        "img" : "./img/Briefing inmersivo.png",
+        "repo": "https://github.com/metaanita/3JS",
+        "technologies" : ["Javascript", "HTML", "CSS", "Vercel", "Glitch", "A-Frame"]
+    },
+    {
+        "name" : "Matrip",
+        "description" : "proyecto grupal de la web de Madrid que muestra lugares y restaurantes de interes en esta ciudad",
+        "year" : 2023,
+        "img" : "./img/matrip.png",
+        "repo": "https://github.com/metaanita/Matrip/tree/main",
+        "technologies" : ["Next.js 14", "API", "Tailwind"]
+    },
+    {
+        "name" : "Súper Quiz TV",
+        "description" : "Proyecto grupal de juego inmersivo con preguntas y respuestas en plató de TV ",
+        "year" : 2024,
+        "img" : "./img/superquiztv.png",
+        "repo": "https://github.com/metaanita/superquiztv",
+        "technologies" : ["Javascript", "Nodejs", "React.js", "Express", "MongoDB", "A-Frame", "Cypress", "Jest"]
+    },
+    {
+        "name" : "API-PAISES",
+        "description" : "Proyecto individual de página web que muestra información de diferentes países, utilizando la API Restcountries.com",
+        "year" : 2023,
+        "img" : "./img/banderas.png",
+        "repo": "https://github.com/metaanita/API-PAISES",
+        "technologies" : ["Javascript", "HTML", "CSS", "Boostrap", "API"]
+    },
+    {
+        "name" : "RATÓN",
+        "description" : "Proyecto e-commerce en equipo de una tienda de discos ",
+        "year" : 2023,
+        "img" : "./img/discos raton.png",
+        "repo": "https://github.com/metaanita/discos_raton",
+        "technologies" : ["Figma", "HTML", "CSS"]
+    }
+    
+]

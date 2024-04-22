@@ -1,0 +1,23 @@
+document.querySelectorAll(".nav-link a").forEach(option => {
+    option.addEventListener("click", function(evt){
+        evt.preventDefault()
+
+        const targetID = this.getAttribute("href").substring(1)
+
+        document.getElementById(targetID).scrollIntoView({
+            behavior: 'smooth'
+        })
+    })
+})
+
+document.querySelectorAll(".nav-footer a").forEach(option => {
+    option.addEventListener("click", function(evt){
+        evt.preventDefault()
+
+        const targetID = this.getAttribute("href").substring(1)
+
+        document.getElementById(targetID).scrollIntoView({
+            behavior: 'smooth'
+        })
+    })
+})
